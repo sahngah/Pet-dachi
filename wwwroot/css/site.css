@@ -1,0 +1,27 @@
+/*Write all of your CSS here*/
+h1{
+    color:salmon;
+    font-family: geneva;
+}
+li{
+    display:inline;
+    font-size: 20px;
+    font-family: geneva;
+    padding: 10px;
+}
+ul{
+    margin-left: -2%
+}
+h3{
+    font-family:geneva;
+}
+form{
+    display: inline-block;
+
+}
+#picture{
+    width: 20%;
+    padding:20px;
+    align-content: center;
+    border:grey double 4px;
+}
